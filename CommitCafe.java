@@ -9,6 +9,7 @@ public class CommitCafe {
         cups++;
         System.out.println(barista + " brewed " + drink + ".");
         // STUDENT_TODO_2B: Add a second brew-related improvement
+
     }
 
     public static void printSummary() {
